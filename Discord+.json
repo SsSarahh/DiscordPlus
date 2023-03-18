@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "version": "0.0.1",
+        "transparency_mode": 0,
+        "author": "Sarah",
+        "name": "Discord+",
+        "license": "CatCord INC."
+    },
+    "background": {},
+    "simple_colors": {
+        "background": -15657700,
+        "accent": -15657700,
+        "mention_highlight": -14800839
+    },
+    "colors": {
+        "white_500": -9469534,
+        "primary_dark_630": -15657700,
+        "primary_dark_360": -9925448,
+        "primary_dark_300": -9469534,
+        "uikit_settings_item_text_color_light": -12629413,
+        "primary_700": -15657700,
+        "uikit_btn_compound_color_selector_dark": -7102784,
+        "primary_dark_800": -15657700,
+        "uikit_btn_bg_color_selector_red": -4734767,
+        "checkbox_themeable_attribute_color": -1644826
+    },
+    "drawable_tints": {
+        "ic_channel_text": -9535851,
+        "ic_status_online_16dp": -9469534
+    },
+    "fonts": {},
+    "raws": {}
+}
