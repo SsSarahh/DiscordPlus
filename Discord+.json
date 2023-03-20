@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.0.1",
+        "version": "0.0.2",
         "transparency_mode": 0,
         "author": "Sarah",
         "name": "Discord+",
@@ -9,8 +9,9 @@
     "background": {},
     "simple_colors": {
         "background": -15657700,
-        "accent": -15657700,
-        "mention_highlight": -14800839
+        "accent": -12627092,
+        "mention_highlight": -14800839,
+        "statusbar": -15657700
     },
     "colors": {
         "white_500": -9469534,
@@ -19,15 +20,24 @@
         "primary_dark_300": -9469534,
         "uikit_settings_item_text_color_light": -12629413,
         "primary_700": -15657700,
-        "uikit_btn_compound_color_selector_dark": -7102784,
+        "uikit_btn_compound_color_selector_dark": -9469534,
         "primary_dark_800": -15657700,
         "uikit_btn_bg_color_selector_red": -4734767,
-        "checkbox_themeable_attribute_color": -1644826
+        "checkbox_themeable_attribute_color": -15657700,
+        "status_green": -1644826,
+        "status_green_900": -1644826,
+        "status_green_500": -1644826,
+        "status_grey": -1644826,
+        "primary_dark_700": -15657700,
+        "primary_dark_660": -15657700
     },
     "drawable_tints": {
         "ic_channel_text": -9535851,
-        "ic_status_online_16dp": -9469534
+        "ic_status_online_16dp": -15042247,
+        "common_full_open_on_phone": -15042247
     },
     "fonts": {},
-    "raws": {}
+    "raws": {
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1064336896022552649\/1086843281645776926\/call.mp3"
+    }
 }
