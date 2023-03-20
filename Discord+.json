@@ -1,10 +1,11 @@
 {
     "manifest": {
-        "version": "0.0.2",
+        "version": "0.0.3",
         "transparency_mode": 0,
         "author": "Sarah",
         "name": "Discord+",
-        "license": "CatCord INC."
+        "license": "CatCord INC.",
+        "updater": "https:\/\/github.com\/SsSarahh\/DiscordPlus"
     },
     "background": {},
     "simple_colors": {
