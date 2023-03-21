@@ -7,7 +7,9 @@
         "license": "CatCord INC.",
         "updater": "https:\/\/github.com\/SsSarahh\/DiscordPlus"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1087479784440868957\/1087581418756001832\/HD-wallpaper-dark-blue-colours.jpg"
+    },
     "simple_colors": {
         "background": -15657700,
         "accent": -12627092,
