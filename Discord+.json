@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "0.0.1",
+        "version": "0.0.5",
         "transparency_mode": 0,
         "author": "Sarah",
         "name": "Discord+",
@@ -39,6 +39,7 @@
     },
     "fonts": {},
     "raws": {
-        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1064336896022552649\/1086843281645776926\/call.mp3"
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/1064336896022552649\/1086843281645776926\/call.mp3",
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/1064336896022552649\/1086843281645776926\/call.mp3"
     }
 }
